@@ -1,0 +1,232 @@
+1 {"1":1}
+Initialization Complete
+1 {"1":2}
+Init PartitionState
+1 {"1":3, "5577006791947779410":3}
+Received Message to GetLeaderIp
+1 {"1":4, "5577006791947779410":3}
+Sending the LeaderIP of the partitionId
+1 {"1":5, "5577006791947779410":6}
+Received Message to WriteToPartition
+1 {"5577006791947779410":8, "1":6}
+Received Message to GetLeaderIp
+1 {"5577006791947779410":8, "1":7}
+Sending the LeaderIP of the partitionId
+1 {"5577006791947779410":11, "1":8}
+Received Message to WriteToPartition
+1 {"5577006791947779410":13, "1":9}
+Received Message to GetLeaderIp
+1 {"5577006791947779410":13, "1":10}
+Sending the LeaderIP of the partitionId
+1 {"5577006791947779410":16, "1":11}
+Received Message to WriteToPartition
+1 {"1":12, "5577006791947779410":18}
+Received Message to GetLeaderIp
+1 {"1":13, "5577006791947779410":18}
+Sending the LeaderIP of the partitionId
+1 {"1":14, "5577006791947779410":21}
+Received Message to WriteToPartition
+1 {"1":15, "5577006791947779410":23}
+Received Message to GetLeaderIp
+1 {"1":16, "5577006791947779410":23}
+Sending the LeaderIP of the partitionId
+1 {"1":17, "5577006791947779410":26}
+Received Message to WriteToPartition
+1 {"1":18, "5577006791947779410":28}
+Received Message to GetLeaderIp
+1 {"1":19, "5577006791947779410":28}
+Sending the LeaderIP of the partitionId
+1 {"1":20, "5577006791947779410":31}
+Received Message to WriteToPartition
+1 {"1":21, "5577006791947779410":33}
+Received Message to GetLeaderIp
+1 {"1":22, "5577006791947779410":33}
+Sending the LeaderIP of the partitionId
+1 {"1":23, "5577006791947779410":36}
+Received Message to WriteToPartition
+1 {"5577006791947779410":38, "1":24}
+Received Message to GetLeaderIp
+1 {"1":25, "5577006791947779410":38}
+Sending the LeaderIP of the partitionId
+1 {"5577006791947779410":41, "1":26}
+Received Message to WriteToPartition
+1 {"1":27, "5577006791947779410":43}
+Received Message to GetLeaderIp
+1 {"1":28, "5577006791947779410":43}
+Sending the LeaderIP of the partitionId
+1 {"5577006791947779410":46, "1":29}
+Received Message to WriteToPartition
+1 {"1":30, "5577006791947779410":48}
+Received Message to GetLeaderIp
+1 {"1":31, "5577006791947779410":48}
+Sending the LeaderIP of the partitionId
+1 {"1":32, "5577006791947779410":51}
+Received Message to WriteToPartition
+1 {"1":33, "5577006791947779410":53}
+Received Message to GetLeaderIp
+1 {"1":34, "5577006791947779410":53}
+Sending the LeaderIP of the partitionId
+1 {"5577006791947779410":56, "1":35}
+Received Message to WriteToPartition
+1 {"5577006791947779410":58, "1":36}
+Received Message to GetLeaderIp
+1 {"5577006791947779410":58, "1":37}
+Sending the LeaderIP of the partitionId
+1 {"5577006791947779410":61, "1":38}
+Received Message to WriteToPartition
+1 {"5577006791947779410":63, "1":39}
+Received Message to GetLeaderIp
+1 {"5577006791947779410":63, "1":40}
+Sending the LeaderIP of the partitionId
+1 {"5577006791947779410":66, "1":41}
+Received Message to WriteToPartition
+1 {"5577006791947779410":68, "1":42}
+Received Message to GetLeaderIp
+1 {"5577006791947779410":68, "1":43}
+Sending the LeaderIP of the partitionId
+1 {"5577006791947779410":71, "1":44}
+Received Message to WriteToPartition
+1 {"5577006791947779410":73, "1":45}
+Received Message to GetLeaderIp
+1 {"5577006791947779410":73, "1":46}
+Sending the LeaderIP of the partitionId
+1 {"5577006791947779410":76, "1":47}
+Received Message to WriteToPartition
+1 {"5577006791947779410":78, "1":48}
+Received Message to GetLeaderIp
+1 {"1":49, "5577006791947779410":78}
+Sending the LeaderIP of the partitionId
+1 {"5577006791947779410":81, "1":50}
+Received Message to WriteToPartition
+1 {"5577006791947779410":83, "1":51}
+Received Message to GetLeaderIp
+1 {"5577006791947779410":83, "1":52}
+Sending the LeaderIP of the partitionId
+1 {"5577006791947779410":86, "1":53}
+Received Message to WriteToPartition
+1 {"5577006791947779410":88, "1":54}
+Received Message to GetLeaderIp
+1 {"5577006791947779410":88, "1":55}
+Sending the LeaderIP of the partitionId
+1 {"5577006791947779410":91, "1":56}
+Received Message to WriteToPartition
+1 {"5577006791947779410":93, "1":57}
+Received Message to GetLeaderIp
+1 {"1":58, "5577006791947779410":93}
+Sending the LeaderIP of the partitionId
+1 {"1":59, "5577006791947779410":96}
+Received Message to WriteToPartition
+1 {"1":60, "5577006791947779410":98}
+Received Message to GetLeaderIp
+1 {"1":61, "5577006791947779410":98}
+Sending the LeaderIP of the partitionId
+1 {"1":62, "5577006791947779410":101}
+Received Message to WriteToPartition
+1 {"1":63, "5577006791947779410":103}
+Received Message to GetLeaderIp
+1 {"1":64, "5577006791947779410":103}
+Sending the LeaderIP of the partitionId
+1 {"1":65, "5577006791947779410":106}
+Received Message to WriteToPartition
+1 {"5577006791947779410":108, "1":66}
+Received Message to GetLeaderIp
+1 {"1":67, "5577006791947779410":108}
+Sending the LeaderIP of the partitionId
+1 {"1":68, "5577006791947779410":111}
+Received Message to WriteToPartition
+1 {"5577006791947779410":113, "1":69}
+Received Message to GetLeaderIp
+1 {"5577006791947779410":113, "1":70}
+Sending the LeaderIP of the partitionId
+1 {"1":71, "5577006791947779410":116}
+Received Message to WriteToPartition
+1 {"1":72, "5577006791947779410":118}
+Received Message to GetLeaderIp
+1 {"1":73, "5577006791947779410":118}
+Sending the LeaderIP of the partitionId
+1 {"5577006791947779410":121, "1":74}
+Received Message to WriteToPartition
+1 {"5577006791947779410":123, "1":75}
+Received Message to GetLeaderIp
+1 {"5577006791947779410":123, "1":76}
+Sending the LeaderIP of the partitionId
+1 {"5577006791947779410":126, "1":77}
+Received Message to WriteToPartition
+1 {"5577006791947779410":128, "1":78}
+Received Message to GetLeaderIp
+1 {"5577006791947779410":128, "1":79}
+Sending the LeaderIP of the partitionId
+1 {"1":80, "5577006791947779410":131}
+Received Message to WriteToPartition
+1 {"1":81, "5577006791947779410":133}
+Received Message to GetLeaderIp
+1 {"1":82, "5577006791947779410":133}
+Sending the LeaderIP of the partitionId
+1 {"1":83, "5577006791947779410":136}
+Received Message to WriteToPartition
+1 {"1":84, "5577006791947779410":138}
+Received Message to GetLeaderIp
+1 {"1":85, "5577006791947779410":138}
+Sending the LeaderIP of the partitionId
+1 {"1":86, "5577006791947779410":141}
+Received Message to WriteToPartition
+1 {"1":87, "5577006791947779410":143}
+Received Message to GetLeaderIp
+1 {"1":88, "5577006791947779410":143}
+Sending the LeaderIP of the partitionId
+1 {"1":89, "5577006791947779410":146}
+Received Message to WriteToPartition
+1 {"1":90, "5577006791947779410":148}
+Received Message to GetLeaderIp
+1 {"1":91, "5577006791947779410":148}
+Sending the LeaderIP of the partitionId
+1 {"1":92, "5577006791947779410":151}
+Received Message to WriteToPartition
+1 {"5577006791947779410":153, "1":93}
+Received Message to GetLeaderIp
+1 {"5577006791947779410":153, "1":94}
+Sending the LeaderIP of the partitionId
+1 {"1":95, "5577006791947779410":156}
+Received Message to WriteToPartition
+1 {"1":96, "5577006791947779410":158}
+Received Message to GetLeaderIp
+1 {"1":97, "5577006791947779410":158}
+Sending the LeaderIP of the partitionId
+1 {"5577006791947779410":161, "1":98}
+Received Message to WriteToPartition
+1 {"5577006791947779410":163, "1":99}
+Received Message to GetLeaderIp
+1 {"5577006791947779410":163, "1":100}
+Sending the LeaderIP of the partitionId
+1 {"5577006791947779410":166, "1":101}
+Received Message to WriteToPartition
+1 {"1":102, "5577006791947779410":168}
+Received Message to GetLeaderIp
+1 {"1":103, "5577006791947779410":168}
+Sending the LeaderIP of the partitionId
+1 {"5577006791947779410":171, "1":104}
+Received Message to WriteToPartition
+1 {"5577006791947779410":173, "1":105}
+Received Message to GetLeaderIp
+1 {"5577006791947779410":173, "1":106}
+Sending the LeaderIP of the partitionId
+1 {"5577006791947779410":176, "1":107}
+Received Message to WriteToPartition
+1 {"1":108, "5577006791947779410":178}
+Received Message to GetLeaderIp
+1 {"5577006791947779410":178, "1":109}
+Sending the LeaderIP of the partitionId
+1 {"5577006791947779410":181, "1":110}
+Received Message to WriteToPartition
+1 {"5577006791947779410":183, "1":111}
+Received Message to GetLeaderIp
+1 {"5577006791947779410":183, "1":112}
+Sending the LeaderIP of the partitionId
+1 {"5577006791947779410":186, "1":113}
+Received Message to WriteToPartition
+1 {"5577006791947779410":188, "1":114}
+Received Message to GetLeaderIp
+1 {"5577006791947779410":188, "1":115}
+Sending the LeaderIP of the partitionId
+1 {"1":116, "5577006791947779410":191}
+Received Message to WriteToPartition

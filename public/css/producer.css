@@ -1,0 +1,47 @@
+.grid-container {
+    display: grid;
+    grid-column-gap:50px;
+    grid-template-columns: auto auto auto;
+    grid-row-gap: 50px;
+    justify-content: space-evenly;
+    justify-items: center;
+}
+
+.dog {
+    grid-column-start:2;
+    grid-column-end:3;
+    grid-row-start:2;
+    grid-row-end:3
+}
+
+.message {
+    grid-row-start:3;
+    grid-row-end:4;
+    grid-column-start:2;
+    grid-column-end:3
+}
+
+.ip {
+    grid-row-start: 3;
+    grid-row-end: 4;
+    grid-column-start: 1;
+    grid-column-end: 2
+}
+
+.partition {
+    grid-row-start: 3;
+    grid-row-end: 4;
+    grid-column-start:3;
+    grid-column-end:4
+}
+
+.sadDog {
+    grid-row-start:1;
+    grid-row-end:2;
+    grid-column-start:3;
+    grid-column-end:4
+}
+
+.hidden {
+    display: none
+}

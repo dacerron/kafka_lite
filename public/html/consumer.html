@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<head>
+        <link rel="stylesheet" type="text/css" href="../css/consumer.css">
+</head>
+
+<body>
+        <div class="grid-container">
+                <script type="text/javascript" src="../dist/jquery-3.3.1.min.js"></script>
+                <script type="text/javascript" src="../js/consumer.js"></script>
+                <p class="textbox" id="textbox"></p>
+                <img id="dog1" class="dog" src="../img/harley2.jpg" />
+                <img id="dog2" class="dog hidden" src="../img/harley1.jpg" />
+                <img id="sadDog" class="hidden sadDog" src="../img/harley3.jpg"/>
+                <div class="ip">
+                        <input id="ip" placeholder="ip"/>
+                        <button type="button" id="message-submit">start consuming</button>
+                </div>
+                <div class="messages">
+                        <table id="msg-table" class="table">
+                        <tr>
+                                <th>PartitionId</th>
+                                <th>Offset</th>
+                                <th>Decoded Msg</th>
+                        </tr>
+                        </table>
+                </div>
+        </div>
+</body>

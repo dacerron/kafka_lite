@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<head>
+        <link rel="stylesheet" type="text/css" href="../css/producer.css">
+</head>
+
+<body>
+        <div class="grid-container">
+                <script type="text/javascript" src="../dist/jquery-3.3.1.min.js"></script>
+                <script type="text/javascript" src="../js/producer.js"></script>
+                <p class="textbox" id="textbox"></p>
+                <img id="dog1" class="dog" src="../img/dog1.jpg" />
+                <img id="dog2" class="dog hidden" src="../img/dog2.jpg" />
+                <img id="sadDog" class="hidden sadDog" src="../img/sadDog.jpg"/>
+                <div class="message">
+                        <input id="message" placeholder="message"/>
+                        <button type="button" id="message-submit">send</button>
+                </div>
+                <div class="ip">
+                        <label for="ip">producer address:</label>
+                        <select id="ip" name="ip">
+                            <option value="52.229.59.83:8080">52.229.59.83:8080</option>
+                            <option value="40.125.64.106:8080">40.125.64.106:8080</option>
+                            <option value="127.0.0.1:8080">127.0.0.1:8080</option>
+                        </select>
+                </div>
+                <div class="partition">
+                        <label for="partition">partition id:</label>
+                        <select id="partition" name="partition">
+                                <option value="0">0</option>
+                                <option value="1">1</option>
+                                <option value="2">2</option>
+                        </select>
+                </div>
+        </div>
+</body>
